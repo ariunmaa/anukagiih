@@ -12,7 +12,7 @@ public class tterggggggg {
 		    } finally {
 		      System.out.println("The 'try catch' is finished.");
 		    }
-		System.out.print("bi bainaa anuka baina yu hjin");
+		System.out.print("bi bainaa anuka bainaaaaa yu hjin");
 	}
 
 }
